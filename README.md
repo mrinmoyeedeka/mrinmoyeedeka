@@ -1,7 +1,7 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Mrinmoyee%20Deka&fontSize=40&fontColor=ffffff)
 
 ## Hi there, my name is Mrinmoyee👋 & I'm a Data Scientist!👩🏻‍💻
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=40&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning;Artificial+Intelligence;Content+Creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=40&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning;Artificial+Intelligence)
 
 ![](https://komarev.com/ghpvc/?username=YOURUSERNAME)
 
